@@ -1,0 +1,18 @@
+# ---> AL
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+*.app
+.snapshots/*
+scripts/files/*
+.DS_Store
+__pycache__/
+.venv/
+.pdm-build/
+scripts/people_info/
