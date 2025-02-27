@@ -15,4 +15,4 @@ scripts/files/*
 __pycache__/
 .venv/
 .pdm-build/
-scripts/people_info/
+people_info/
